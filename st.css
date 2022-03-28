@@ -1,0 +1,63 @@
+body { background-color: #000000;
+    background-image: linear-gradient(to bottom, #030000, #e0b739);
+    height: 100%;
+    background-repeat: no-repeat;
+    color: #000000;
+}
+h1 { background-color: #ffffff;
+    padding: 5px;
+    color: #000000; }
+p { font-family: Arial, sans-serif; }
+#yls { float: right;}
+
+header {
+    height: 60px;
+    padding-top: 15px;
+    text-align: center;
+}
+h1 { background-color: #e0b739;
+    padding: 5px;
+    color: #ffffff; }
+p { font-family: "Times New Roman", sans-serif; }
+#yls { float: right;
+    margin: 0 0 5px 5px;
+    border: 1px solid #000000; }
+
+#wrapper { float: inside;
+    width: 80%;
+    background-color: #FFFFFF;
+    offset: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: #333333;
+}
+main {
+    padding: 1px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+homehero {
+    height: 300px;
+}
+table { margin: auto; border: 5px solid #000000; width: 600px; }
+caption { font-family: Verdana, "Times New Roman";
+    font-weight: bold; font-size: 1.2em; paddingbottom: 5px; }
+
+get {
+    height: 60px;
+    padding-top: 15px;
+    text-align: center;
+}
+h4 { background-color: #000000;
+    padding: 5px;
+    color: #ffffff; }
+p { font-family: "Times New Roman", sans-serif; }
+#yls { float: right;
+    margin: 0 0 5px 5px;
+    border: 1px solid #000000; }
+fieldset { width: 500px; border: 2px ridge #000000;
+    font-family: Arial, sans-serif; padding: 10px; }
+legend { font-family: Georgia, "Times New Roman", serif;
+    font-weight: bold; }
+label { padding-left: 10px; }
